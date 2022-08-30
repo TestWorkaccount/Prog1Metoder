@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Metoder17\Metoder17\bin\Debug\Metoder17.exe.config
+C:\Users\Åke\source\repos\Metoder17\Metoder17\bin\Debug\Metoder17.exe
+C:\Users\Åke\source\repos\Metoder17\Metoder17\bin\Debug\Metoder17.pdb
+C:\Users\Åke\source\repos\Metoder17\Metoder17\obj\Debug\Metoder17.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Metoder17\Metoder17\obj\Debug\Metoder17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Metoder17\Metoder17\obj\Debug\Metoder17.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Metoder17\Metoder17\obj\Debug\Metoder17.exe
+C:\Users\Åke\source\repos\Metoder17\Metoder17\obj\Debug\Metoder17.pdb

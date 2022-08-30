@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Metoder11\Metoder11\bin\Debug\Metoder11.exe.config
+C:\Users\Åke\source\repos\Metoder11\Metoder11\bin\Debug\Metoder11.exe
+C:\Users\Åke\source\repos\Metoder11\Metoder11\bin\Debug\Metoder11.pdb
+C:\Users\Åke\source\repos\Metoder11\Metoder11\obj\Debug\Metoder11.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Metoder11\Metoder11\obj\Debug\Metoder11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Metoder11\Metoder11\obj\Debug\Metoder11.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Metoder11\Metoder11\obj\Debug\Metoder11.exe
+C:\Users\Åke\source\repos\Metoder11\Metoder11\obj\Debug\Metoder11.pdb

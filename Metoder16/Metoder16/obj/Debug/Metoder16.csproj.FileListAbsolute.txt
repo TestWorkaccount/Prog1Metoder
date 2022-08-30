@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Metoder16\Metoder16\bin\Debug\Metoder16.exe.config
+C:\Users\Åke\source\repos\Metoder16\Metoder16\bin\Debug\Metoder16.exe
+C:\Users\Åke\source\repos\Metoder16\Metoder16\bin\Debug\Metoder16.pdb
+C:\Users\Åke\source\repos\Metoder16\Metoder16\obj\Debug\Metoder16.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Metoder16\Metoder16\obj\Debug\Metoder16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Metoder16\Metoder16\obj\Debug\Metoder16.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Metoder16\Metoder16\obj\Debug\Metoder16.exe
+C:\Users\Åke\source\repos\Metoder16\Metoder16\obj\Debug\Metoder16.pdb

@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Metoder19\Metoder19\bin\Debug\Metoder19.exe.config
+C:\Users\Åke\source\repos\Metoder19\Metoder19\bin\Debug\Metoder19.exe
+C:\Users\Åke\source\repos\Metoder19\Metoder19\bin\Debug\Metoder19.pdb
+C:\Users\Åke\source\repos\Metoder19\Metoder19\obj\Debug\Metoder19.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Metoder19\Metoder19\obj\Debug\Metoder19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Metoder19\Metoder19\obj\Debug\Metoder19.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Metoder19\Metoder19\obj\Debug\Metoder19.exe
+C:\Users\Åke\source\repos\Metoder19\Metoder19\obj\Debug\Metoder19.pdb

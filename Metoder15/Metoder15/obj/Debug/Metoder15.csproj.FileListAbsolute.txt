@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Metoder15\Metoder15\bin\Debug\Metoder15.exe.config
+C:\Users\Åke\source\repos\Metoder15\Metoder15\bin\Debug\Metoder15.exe
+C:\Users\Åke\source\repos\Metoder15\Metoder15\bin\Debug\Metoder15.pdb
+C:\Users\Åke\source\repos\Metoder15\Metoder15\obj\Debug\Metoder15.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Metoder15\Metoder15\obj\Debug\Metoder15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Metoder15\Metoder15\obj\Debug\Metoder15.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Metoder15\Metoder15\obj\Debug\Metoder15.exe
+C:\Users\Åke\source\repos\Metoder15\Metoder15\obj\Debug\Metoder15.pdb

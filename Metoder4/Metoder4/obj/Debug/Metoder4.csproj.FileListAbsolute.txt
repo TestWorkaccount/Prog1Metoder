@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\Metoder4\Metoder4\bin\Debug\Metoder4.exe.config
+C:\Users\Åke\source\repos\Metoder4\Metoder4\bin\Debug\Metoder4.exe
+C:\Users\Åke\source\repos\Metoder4\Metoder4\bin\Debug\Metoder4.pdb
+C:\Users\Åke\source\repos\Metoder4\Metoder4\obj\Debug\Metoder4.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\Metoder4\Metoder4\obj\Debug\Metoder4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\Metoder4\Metoder4\obj\Debug\Metoder4.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\Metoder4\Metoder4\obj\Debug\Metoder4.exe
+C:\Users\Åke\source\repos\Metoder4\Metoder4\obj\Debug\Metoder4.pdb
